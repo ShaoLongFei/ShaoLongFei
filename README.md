@@ -8,8 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   36 mins         ██████████████████████▒░░   89.47 % 
-Bash   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
