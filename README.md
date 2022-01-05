@@ -8,8 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java       10 hrs 40 mins  ████████████████████████▒   96.88 % 
-Groovy     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Java     7 hrs 44 mins   ███████████████████████▓░   94.04 % 
+Groovy   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 <!--END_SECTION:waka-->
 
