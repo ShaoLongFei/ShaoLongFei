@@ -8,9 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java                   2 hrs 13 mins   ██████████████████████▒░░   89.26 % 
-Markdown               14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Prolog                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
