@@ -8,7 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java             2 hrs 27 mins   ████████████████████████▒   97.78 % 
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
 
