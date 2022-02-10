@@ -8,8 +8,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java             2 hrs 27 mins   ████████████████████████▒   97.78 % 
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Java                   9 hrs 1 min     ███████████████████████▒░   93.41 % 
+Groovy                 26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Shrinker Config File   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Prolog                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+GitIgnore file         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
