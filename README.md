@@ -8,11 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java                   14 hrs 52 mins  ███████████████████████▒░   93.88 % 
-Groovy                 33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Text                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Shrinker Config File   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Prolog                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Total: 13 hrs 9 mins
+
+Java                   12 hrs 10 mins  ███████████████████████░░   92.63 % 
+Groovy                 33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Text                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Shrinker Config File   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Prolog                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
