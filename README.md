@@ -8,11 +8,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 12 hrs 24 mins
-
-Java         12 hrs 12 mins  ████████████████████████▓   98.37 % 
-Groovy       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Java         14 hrs 15 mins  ███████████████████████▓░   94.58 % 
+Groovy       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
