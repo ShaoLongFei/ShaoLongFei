@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                   13 hrs 5 mins   ███████████████████████▒░   93.91 %
-Groovy                 40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Gradle                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Markdown               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java                   17 hrs 55 mins  ████████████████████████░   95.47 %
+Groovy                 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Gradle                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Markdown               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
