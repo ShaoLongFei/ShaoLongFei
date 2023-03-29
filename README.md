@@ -9,12 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         1 hr 54 mins    █████████████████████▓░░░   86.60 %
-ObjectiveC   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-C++          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Prolog       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
