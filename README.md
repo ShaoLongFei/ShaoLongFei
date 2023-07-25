@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java     42 mins         █████████████████░░░░░░░░   67.58 %
+Prolog   14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+Text     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Gradle   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
