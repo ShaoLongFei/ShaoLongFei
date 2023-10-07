@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 mins          █████████████▓░░░░░░░░░░░   54.90 %
-Kotlin   1 min           ███████████▒░░░░░░░░░░░░░   45.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
