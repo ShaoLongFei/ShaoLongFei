@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           53 mins               █████████▓░░░░░░░░░░░░░░░   38.14 %
+Groovy       39 mins               ███████░░░░░░░░░░░░░░░░░░   28.36 %
+XML          21 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Other        8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Markdown     7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
