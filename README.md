@@ -1,6 +1,4 @@
 
-# 👋🏻 Hey
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -12,5 +10,3 @@ JavaScript   25 mins               ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
- ➡️  来我的网站瞧瞧吗？[这里](https://www.shaolongfei.com)
